@@ -93,8 +93,9 @@ The accuracy of the model is good and the misclassification rate is  fairly low 
 # ROC Curve
 
 
+![image](https://github.com/aastha2403/Breast-Cancer-Study-and-Evaluation/assets/64841585/f181cf21-a0ae-4de3-a282-c05705a4a835)
 
-![](Images/9.png)
+
 
 
 As observed from the ROC curve, the false positive rate is nearly zero. This is crucial in the medical field because both false positives and false negatives have significant implications. If the model detects cancer and the patient indeed has breast cancer, the system works as intended. However, if the patient has breast cancer and the model outputs a false negative, the person's life could be at risk.

@@ -93,7 +93,7 @@ The model's accuracy is good and the misclassification rate is fairly low for bo
 # ROC Curve
 
 
-![image](ROC Curve.png)
+![images](ROC Curve.png)
 
 
 

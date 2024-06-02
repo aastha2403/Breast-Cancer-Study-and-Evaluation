@@ -93,7 +93,7 @@ The accuracy of the model is good and the misclassification rate is  fairly low 
 # ROC Curve
 
 
-![image](https://github.com/aastha2403/Breast-Cancer-Study-and-Evaluation/assets/64841585/f181cf21-a0ae-4de3-a282-c05705a4a835)
+![image](ROC.png)
 
 
 

@@ -93,7 +93,7 @@ The accuracy of the model is good and the misclassification rate is  fairly low 
 # ROC Curve
 
 
-![image](ROC.png)
+![image](ROC Curve.png)
 
 
 

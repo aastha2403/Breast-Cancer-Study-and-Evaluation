@@ -82,7 +82,7 @@ The first component explains the maximum variability of the dataset as compared 
 
 
 
-The accuracy of the model is good and the misclassification rate is  fairly low for both the classes of  output variable.
+The model's accuracy is good and the misclassification rate is fairly low for both the classes of output variable.
 
 
 
@@ -93,7 +93,7 @@ The accuracy of the model is good and the misclassification rate is  fairly low 
 # ROC Curve
 
 
-![image](ROCCurve.png)
+![image](ROC Curve.png)
 
 
 
